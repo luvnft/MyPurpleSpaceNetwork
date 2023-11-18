@@ -64,7 +64,7 @@ function Navbar() {
             <Link to='/' className='homeLink'>
                 <div className="navbar-brand">
                     <img src={logo} className="logo" alt="" />
-                    <span>My Purple Space</span>
+                    <span>IAM</span>
                 </div>
             </Link>
 
