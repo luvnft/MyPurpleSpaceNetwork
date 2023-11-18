@@ -22,16 +22,16 @@ function About() {
                     <img src={earthImg} alt="" />
                 </div>
                 <div className="right-about">
-                    <h1>My Purple Space brings the world together!</h1>
-                    <h4>Get Connected!</h4>
+                    <h1>I AM: Afirmmation social media</h1>
+                    <h4>Tap in!</h4>
                     <div className="personConnecteds">
                         <img src={personPcImg} alt="" style={{marginRight:'35px'}} />
                         <img src={personPcImg2} alt="" />
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi tempora beatae unde eum officiis necessitatibus quidem, totam, est dolor reiciendis dolores recusandae maxime voluptatem itaque in iusto adipisci quas voluptatibus?</p>
+                    <p>I Am is the first-and-last social media platform you should use daily. </p>
                     <button onClick={() => {
                         navigate('/login')
-                    }}>Start being Purple</button>
+                    }}>Claim It</button>
                 </div>
             </div>
         </>
